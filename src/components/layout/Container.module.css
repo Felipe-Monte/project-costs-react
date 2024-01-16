@@ -1,4 +1,3 @@
-
 .container {
   width: 1200px;
   margin: 0 auto;
@@ -6,11 +5,9 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-
-  border: 1px solid red;
 }
 
-.min-height {
+.min_height {
   min-height: 75%;
 }
 
