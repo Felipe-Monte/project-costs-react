@@ -9,8 +9,8 @@ function Navbar() {
   return (
     <nav className={styles.navbar}>
       <Container>
-        <Link>
-          <PiDevToLogo className={styles.logo}/>
+        <Link to="/">
+          <PiDevToLogo className={styles.logo} />
         </Link>
         <ul className={styles.list}>
           <li className={styles.item}>
