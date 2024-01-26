@@ -1,8 +1,8 @@
 import styles from './Home.module.css'
 
-import LinkButton from '../components/layout/LinkButton'
+import LinkButton from '../layout/LinkButton'
 
-import money from '../../src/img/money.svg'
+import money from '../img/money.svg'
 
 function Home() {
   return (
