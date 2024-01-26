@@ -1,9 +1,9 @@
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
 import { PiDevToLogo } from "react-icons/pi";
 
-import Container from './Container'
+import Container from "./Container";
 
-import styles from './Navbar.module.css'
+import styles from "./Navbar.module.css";
 
 function Navbar() {
   return (
@@ -28,7 +28,7 @@ function Navbar() {
         </ul>
       </Container>
     </nav>
-  )
+  );
 }
 
-export default Navbar
+export default Navbar;
